@@ -25,6 +25,7 @@ The dataset contains the following information :
  Python 3.9.13 on a test environment
  VS Code (supports jupyter notebook)
  Github : host
+ OS: Windows 11
  
  _Libraries_ (see requirements)
  
